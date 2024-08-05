@@ -1,0 +1,63 @@
+[05-Aug-2024 02:59:10 UTC] <h1?> Fatal error </h1><p>Uncaught exception: 'Exception'</p><p> Message: 'No route matched.'</p><p>Stack trace: <pre>#0 C:\Program Files\Ampps\www\public\index.php(44): Core\Router->dispatch()
+#1 {main}</pre></p><p>Thrown in 'C:\Program Files\Ampps\www\Core\Router.php' online99</p>
+[05-Aug-2024 02:59:10 UTC] <h1?> Fatal error </h1><p>Uncaught exception: 'Exception'</p><p> Message: 'No route matched.'</p><p>Stack trace: <pre>#0 C:\Program Files\Ampps\www\public\index.php(44): Core\Router->dispatch()
+#1 {main}</pre></p><p>Thrown in 'C:\Program Files\Ampps\www\Core\Router.php' online99</p>
+[05-Aug-2024 02:59:17 UTC] <h1?> Fatal error </h1><p>Uncaught exception: 'Exception'</p><p> Message: 'No route matched.'</p><p>Stack trace: <pre>#0 C:\Program Files\Ampps\www\public\index.php(44): Core\Router->dispatch()
+#1 {main}</pre></p><p>Thrown in 'C:\Program Files\Ampps\www\Core\Router.php' online99</p>
+[05-Aug-2024 02:59:17 UTC] <h1?> Fatal error </h1><p>Uncaught exception: 'Exception'</p><p> Message: 'No route matched.'</p><p>Stack trace: <pre>#0 C:\Program Files\Ampps\www\public\index.php(44): Core\Router->dispatch()
+#1 {main}</pre></p><p>Thrown in 'C:\Program Files\Ampps\www\Core\Router.php' online99</p>
+[05-Aug-2024 02:59:18 UTC] <h1?> Fatal error </h1><p>Uncaught exception: 'Exception'</p><p> Message: 'No route matched.'</p><p>Stack trace: <pre>#0 C:\Program Files\Ampps\www\public\index.php(44): Core\Router->dispatch()
+#1 {main}</pre></p><p>Thrown in 'C:\Program Files\Ampps\www\Core\Router.php' online99</p>
+[05-Aug-2024 02:59:18 UTC] <h1?> Fatal error </h1><p>Uncaught exception: 'Exception'</p><p> Message: 'No route matched.'</p><p>Stack trace: <pre>#0 C:\Program Files\Ampps\www\public\index.php(44): Core\Router->dispatch()
+#1 {main}</pre></p><p>Thrown in 'C:\Program Files\Ampps\www\Core\Router.php' online99</p>
+[05-Aug-2024 03:05:58 UTC] <h1?> Fatal error </h1><p>Uncaught exception: 'Exception'</p><p> Message: 'No route matched.'</p><p>Stack trace: <pre>#0 C:\Program Files\Ampps\www\public\index.php(44): Core\Router->dispatch()
+#1 {main}</pre></p><p>Thrown in 'C:\Program Files\Ampps\www\Core\Router.php' online99</p>
+[05-Aug-2024 03:05:58 UTC] <h1?> Fatal error </h1><p>Uncaught exception: 'Exception'</p><p> Message: 'No route matched.'</p><p>Stack trace: <pre>#0 C:\Program Files\Ampps\www\public\index.php(44): Core\Router->dispatch()
+#1 {main}</pre></p><p>Thrown in 'C:\Program Files\Ampps\www\Core\Router.php' online99</p>
+[05-Aug-2024 03:06:19 UTC] <h1?> Fatal error </h1><p>Uncaught exception: 'Exception'</p><p> Message: 'No route matched.'</p><p>Stack trace: <pre>#0 C:\Program Files\Ampps\www\public\index.php(44): Core\Router->dispatch()
+#1 {main}</pre></p><p>Thrown in 'C:\Program Files\Ampps\www\Core\Router.php' online99</p>
+[05-Aug-2024 03:06:19 UTC] <h1?> Fatal error </h1><p>Uncaught exception: 'Exception'</p><p> Message: 'No route matched.'</p><p>Stack trace: <pre>#0 C:\Program Files\Ampps\www\public\index.php(44): Core\Router->dispatch()
+#1 {main}</pre></p><p>Thrown in 'C:\Program Files\Ampps\www\Core\Router.php' online99</p>
+[05-Aug-2024 03:06:19 UTC] <h1?> Fatal error </h1><p>Uncaught exception: 'Exception'</p><p> Message: 'No route matched.'</p><p>Stack trace: <pre>#0 C:\Program Files\Ampps\www\public\index.php(44): Core\Router->dispatch()
+#1 {main}</pre></p><p>Thrown in 'C:\Program Files\Ampps\www\Core\Router.php' online99</p>
+[05-Aug-2024 03:06:19 UTC] <h1?> Fatal error </h1><p>Uncaught exception: 'Exception'</p><p> Message: 'No route matched.'</p><p>Stack trace: <pre>#0 C:\Program Files\Ampps\www\public\index.php(44): Core\Router->dispatch()
+#1 {main}</pre></p><p>Thrown in 'C:\Program Files\Ampps\www\Core\Router.php' online99</p>
+[05-Aug-2024 03:06:20 UTC] <h1?> Fatal error </h1><p>Uncaught exception: 'Exception'</p><p> Message: 'No route matched.'</p><p>Stack trace: <pre>#0 C:\Program Files\Ampps\www\public\index.php(44): Core\Router->dispatch()
+#1 {main}</pre></p><p>Thrown in 'C:\Program Files\Ampps\www\Core\Router.php' online99</p>
+[05-Aug-2024 03:06:20 UTC] <h1?> Fatal error </h1><p>Uncaught exception: 'Exception'</p><p> Message: 'No route matched.'</p><p>Stack trace: <pre>#0 C:\Program Files\Ampps\www\public\index.php(44): Core\Router->dispatch()
+#1 {main}</pre></p><p>Thrown in 'C:\Program Files\Ampps\www\Core\Router.php' online99</p>
+[05-Aug-2024 03:06:20 UTC] <h1?> Fatal error </h1><p>Uncaught exception: 'Exception'</p><p> Message: 'No route matched.'</p><p>Stack trace: <pre>#0 C:\Program Files\Ampps\www\public\index.php(44): Core\Router->dispatch()
+#1 {main}</pre></p><p>Thrown in 'C:\Program Files\Ampps\www\Core\Router.php' online99</p>
+[05-Aug-2024 03:06:20 UTC] <h1?> Fatal error </h1><p>Uncaught exception: 'Exception'</p><p> Message: 'No route matched.'</p><p>Stack trace: <pre>#0 C:\Program Files\Ampps\www\public\index.php(44): Core\Router->dispatch()
+#1 {main}</pre></p><p>Thrown in 'C:\Program Files\Ampps\www\Core\Router.php' online99</p>
+[05-Aug-2024 03:06:20 UTC] <h1?> Fatal error </h1><p>Uncaught exception: 'Exception'</p><p> Message: 'No route matched.'</p><p>Stack trace: <pre>#0 C:\Program Files\Ampps\www\public\index.php(44): Core\Router->dispatch()
+#1 {main}</pre></p><p>Thrown in 'C:\Program Files\Ampps\www\Core\Router.php' online99</p>
+[05-Aug-2024 03:06:20 UTC] <h1?> Fatal error </h1><p>Uncaught exception: 'Exception'</p><p> Message: 'No route matched.'</p><p>Stack trace: <pre>#0 C:\Program Files\Ampps\www\public\index.php(44): Core\Router->dispatch()
+#1 {main}</pre></p><p>Thrown in 'C:\Program Files\Ampps\www\Core\Router.php' online99</p>
+[05-Aug-2024 03:07:08 UTC] <h1?> Fatal error </h1><p>Uncaught exception: 'Exception'</p><p> Message: 'No route matched.'</p><p>Stack trace: <pre>#0 C:\Program Files\Ampps\www\public\index.php(44): Core\Router->dispatch()
+#1 {main}</pre></p><p>Thrown in 'C:\Program Files\Ampps\www\Core\Router.php' online99</p>
+[05-Aug-2024 03:07:08 UTC] <h1?> Fatal error </h1><p>Uncaught exception: 'Exception'</p><p> Message: 'No route matched.'</p><p>Stack trace: <pre>#0 C:\Program Files\Ampps\www\public\index.php(44): Core\Router->dispatch()
+#1 {main}</pre></p><p>Thrown in 'C:\Program Files\Ampps\www\Core\Router.php' online99</p>
+[05-Aug-2024 03:07:10 UTC] <h1?> Fatal error </h1><p>Uncaught exception: 'Exception'</p><p> Message: 'No route matched.'</p><p>Stack trace: <pre>#0 C:\Program Files\Ampps\www\public\index.php(44): Core\Router->dispatch()
+#1 {main}</pre></p><p>Thrown in 'C:\Program Files\Ampps\www\Core\Router.php' online99</p>
+[05-Aug-2024 03:07:10 UTC] <h1?> Fatal error </h1><p>Uncaught exception: 'Exception'</p><p> Message: 'No route matched.'</p><p>Stack trace: <pre>#0 C:\Program Files\Ampps\www\public\index.php(44): Core\Router->dispatch()
+#1 {main}</pre></p><p>Thrown in 'C:\Program Files\Ampps\www\Core\Router.php' online99</p>
+[05-Aug-2024 03:07:50 UTC] <h1?> Fatal error </h1><p>Uncaught exception: 'Exception'</p><p> Message: 'No route matched.'</p><p>Stack trace: <pre>#0 C:\Program Files\Ampps\www\public\index.php(44): Core\Router->dispatch()
+#1 {main}</pre></p><p>Thrown in 'C:\Program Files\Ampps\www\Core\Router.php' online99</p>
+[05-Aug-2024 03:07:50 UTC] <h1?> Fatal error </h1><p>Uncaught exception: 'Exception'</p><p> Message: 'No route matched.'</p><p>Stack trace: <pre>#0 C:\Program Files\Ampps\www\public\index.php(44): Core\Router->dispatch()
+#1 {main}</pre></p><p>Thrown in 'C:\Program Files\Ampps\www\Core\Router.php' online99</p>
+[05-Aug-2024 03:08:31 UTC] <h1?> Fatal error </h1><p>Uncaught exception: 'Twig\Error\LoaderError'</p><p> Message: 'Unable to find template "Home/inde.html" (looked into: ../App/Views).'</p><p>Stack trace: <pre>#0 C:\Program Files\Ampps\www\vendor\twig\twig\src\Loader\FilesystemLoader.php(131): Twig\Loader\FilesystemLoader->findTemplate()
+#1 C:\Program Files\Ampps\www\vendor\twig\twig\src\Environment.php(291): Twig\Loader\FilesystemLoader->getCacheKey()
+#2 C:\Program Files\Ampps\www\vendor\twig\twig\src\Environment.php(344): Twig\Environment->getTemplateClass()
+#3 C:\Program Files\Ampps\www\vendor\twig\twig\src\Environment.php(307): Twig\Environment->load()
+#4 C:\Program Files\Ampps\www\Core\View.php(30): Twig\Environment->render()
+#5 C:\Program Files\Ampps\www\App\Controllers\Home.php(20): Core\View::renderTemplate()
+#6 [internal function]: App\Controllers\Home->indexAction()
+#7 C:\Program Files\Ampps\www\Core\Controller.php(19): call_user_func_array()
+#8 C:\Program Files\Ampps\www\Core\Router.php(88): Core\Controller->__call()
+#9 C:\Program Files\Ampps\www\public\index.php(44): Core\Router->dispatch()
+#10 {main}</pre></p><p>Thrown in 'C:\Program Files\Ampps\www\vendor\twig\twig\src\Loader\FilesystemLoader.php' online227</p>
+[05-Aug-2024 03:13:42 UTC] <h1?> Fatal error </h1><p>Uncaught exception: 'Exception'</p><p> Message: 'No route matched.'</p><p>Stack trace: <pre>#0 C:\Program Files\Ampps\www\public\index.php(44): Core\Router->dispatch()
+#1 {main}</pre></p><p>Thrown in 'C:\Program Files\Ampps\www\Core\Router.php' online99</p>
+[05-Aug-2024 03:14:07 UTC] <h1?> Fatal error </h1><p>Uncaught exception: 'Exception'</p><p> Message: 'No route matched.'</p><p>Stack trace: <pre>#0 C:\Program Files\Ampps\www\public\index.php(44): Core\Router->dispatch()
+#1 {main}</pre></p><p>Thrown in 'C:\Program Files\Ampps\www\Core\Router.php' online99</p>
